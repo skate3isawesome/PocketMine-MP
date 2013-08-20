@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-TITLE PocketMine-MP Minecraft PE server
+TITLE skate3isawesome's server
 COLOR 0F
 mode con: cols=90
 cd /d %~dp0
@@ -22,4 +22,5 @@ echo [ERROR] Couldn't find PHP binary in PATH.
 		)
 	)	
 )
-pause
+start
+
